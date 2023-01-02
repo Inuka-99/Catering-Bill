@@ -1,11 +1,7 @@
-#include <cstdio>
-// Inuka Hulathduwage
-// Program 2
-// CS 1 - Prof.Tina Jhonson
-// 9/20/2022
 // building a program for a catering service using Arithmetic calculations using
 // inputs from a user and giving them the bill as a result.
 
+#include <cstdio>
 #include <iomanip>
 #include <iostream>
 using namespace std;
